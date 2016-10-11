@@ -1,3 +1,3 @@
 # hello-world
 
-First steps in learning about GiutHub
+First steps in learning about GitHub
